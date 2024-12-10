@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "author": "Alice",
+      "text": "Premier post sur ce réseau !",
+      "image": "img/post1.jpg",
+      "reactions": { "like": 5, "dislike": 1, "love": 3 },
+      "comments": [
+        { "user": "Bob", "text": "Super post !" },
+        { "user": "Jane", "text": "J'adore !" }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "Bob",
+      "text": "Mon premier post sans photo.",
+      "image": null,
+      "reactions": { "like": 2, "dislike": 0, "love": 1 },
+      "comments": []
+    }
+  ]
+  
